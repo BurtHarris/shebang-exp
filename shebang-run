@@ -1,0 +1,1 @@
+echo "shebang-run $1"

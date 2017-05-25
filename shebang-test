@@ -1,0 +1,6 @@
+#!foo
+This is a test
+
+if "%1"=="enable" (
+    SET PATHEXT=%PATHEXT;.
+)
